@@ -1,0 +1,14 @@
+name = "hypo/vesting"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'hypo/vesting'"
+
+[repository]
+user = "hypo"
+project = "vesting"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"
